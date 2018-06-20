@@ -1,0 +1,31 @@
+body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background: #004C99;
+    font-family: "Comic Sans MS";
+}
+div.titulo{
+    position: absolute;
+    top: 10%;
+    right: 43%;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+div.login{
+    border: 10px;
+    border-color: white;
+    position: absolute;
+    right: 38%;
+    top: 30%;
+    background-color: #DAE8FC;
+    text-align: center;
+    height: 350px;
+    width: 300px;
+}
+button.b1{
+    background-color: #004C99;
+    color: purple;
+    width: 150px;
+}

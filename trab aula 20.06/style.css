@@ -1,0 +1,65 @@
+body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background: #004C99;
+    font-family: "Comic Sans MS";
+    }
+h2{
+    color: white;
+    text-align: center;
+    position: relative;
+    font-size: 20px;
+}
+div.top {
+    border-radius: 10px;
+    background-image: url('http://via.placeholder.com/150x150');
+    background-position: center;
+    right: 20%;
+    height: 80px;
+    width: 60%;
+    position: absolute;
+}
+div.busca{
+    position: absolute;
+    right: 5%;
+    top: 5%;
+}
+
+a.link{
+    position: absolute;
+    right: 5%;
+    top: 70%;
+}
+button.pesquisa{
+    height: 50%;
+    background-image: url('https://cdn.icon-icons.com/icons2/904/PNG/512/loupe_icon-icons.com_69633.png');
+}
+div.mid {
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+     right: 19%;
+    top: 16.5%;
+    position: absolute;
+    height: 80px;
+    width:  62%;
+    background-position: center;
+    font-size: 26.5px;
+    padding-left: 10px;
+    opacity: 0.5;
+}
+div.back{
+    color: black;
+    position: absolute;
+    border-radius: 10px;
+    bottom: 0;
+    right: 19%;
+    width: 62%;
+    background-color: white;
+    text-align: center;
+    opacity: 0.5;
+}
+h3{
+    color: black;
+}
